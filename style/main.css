@@ -45,7 +45,7 @@ body {
 	margin-left: 256px;
 } */
 
-.img-1::after {
+/* .img-1::after {
 	content: '';
 	position: absolute;
 	top: 0px;
@@ -53,10 +53,8 @@ body {
 	width: 1px;
 	height: 100%;
 	background: rgb(51, 238, 5);
-	/* margin-left: 128px; */
-	/* margin-left: calc(256px - 43%); */
 	margin-left: 150px;
-}
+} */
 
 /* .bottom-line {
 	position: absolute;
